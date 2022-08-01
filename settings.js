@@ -24,17 +24,18 @@ const chalk = require('chalk')
 //global api
 global.fbapi = 'dd79-1aeb-21a3' // Facebook download 2 api
 
-global.APIs = {
+global.APIs = {elgzeWhXdW0=
 	zenz: 'https://zenzapi.xyz', 
 }
-global.APIKeys = {
+global.APIKeys = {32324c96-e112-4def-bfff-76405a0fb823
+		  
 	'https://zenzapi.xyz': '01ABEB1E11', //Kalau habis beli sendiri
 }
 
 //other
-global.owner = ['94715166712'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.owner = ['21277386892'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.pemilik = ['21277386892'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['21277386892'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
 global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
 global.botnma = '💃 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
 global.ownernma = '𝓓𝓪𝓻𝓴 𝓜𝓪𝓴𝓮𝓻' //ownernama,ownername
