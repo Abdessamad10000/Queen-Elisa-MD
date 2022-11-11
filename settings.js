@@ -37,10 +37,10 @@ global.owner = ['21277386892'] // Owner number , (අයිතිකරුගේ
 global.pemilik = ['21277386892'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
 global.premium = ['21277386892'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
 global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
-global.botnma = '💃 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
-global.ownernma = '𝓓𝓪𝓻𝓴 𝓜𝓪𝓴𝓮𝓻' //ownernama,ownername
+global.botnma = 'fire bot ' // Your bot name , ඔබගෙ බොට්ගේ නම 
+global.ownernma = 'abdessamad' //ownernama,ownername
 global.packname = 'Queen Elisa Sticker' // Sticker package name 
-global.author = 'Dark Maker' // Sticker Autor name 
+global.author = 'abdessamad' // Sticker Autor name 
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
@@ -75,7 +75,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity", 
-    free: 90 
+    free: "Infinity",
 }
     global.rpg = {
         darahawal: 100,
